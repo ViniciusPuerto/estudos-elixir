@@ -1,0 +1,1 @@
+IO.puts "Hey guys, this is the first script..."
